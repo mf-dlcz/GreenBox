@@ -1,4 +1,4 @@
-# Personal Project
+# GreenBox
 
 ## Table of Contents
 

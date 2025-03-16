@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [Personal Project](#greenbox)
+- [Green Box](#greenbox)
   - [Table of Contents](#table-of-contents)
   - [Project Overview](#project-overview)
   - [Demo](#demo)
@@ -22,4 +22,4 @@
 ## Technologies Used
   * JavaScript
   * HTML
-  * css
+  * CSS
